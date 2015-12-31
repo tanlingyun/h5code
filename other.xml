@@ -1,0 +1,10 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://git.oschina.net/taly/tianwencourse.git" />
+        <option value="svn://git.oschina.net/taly/tianwencourse" />
+      </list>
+    </option>
+  </component>
+</application>
